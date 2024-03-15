@@ -60,7 +60,7 @@ const CurrencyConverter = () => {
    
   return (
     <div className='converter'>
-        <h2>Conversor de moedas</h2>
+        <h2>💵 Conversor de moedas 💴</h2>
 
         <input type="number" placeholder='Digite o valor...'
         value={amount} onChange={(e) => setAmount(e.target.value)}/>

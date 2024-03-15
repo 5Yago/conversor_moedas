@@ -4,9 +4,8 @@
     align-items: center;
     padding: 2rem;
     border-radius: 10px;
-    width: 400px;
+    width: 600px;
     margin: 2rem auto;
-    background-color: #f8f9fa;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
@@ -44,5 +43,12 @@
 }
 
 .h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: #495057;
-}
+    background-color: rgba(26, 193, 26, 0.764);
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+  }
